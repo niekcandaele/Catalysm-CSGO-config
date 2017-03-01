@@ -1,0 +1,1 @@
+# Catalysm-CSGO-config
