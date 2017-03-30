@@ -4,8 +4,11 @@
 All my settings and binds for CSGO.
 
 INSTALLATION
+
   Copy autoexec.cfg to your csgo cfg folder:
+  
   C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+  
   It will automatically execute all commands when you start your game. 
   If you're having trouble you can reload the script by writing "exec autoexec" to console.
 
