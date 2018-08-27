@@ -84,6 +84,7 @@ These are located in cata-controls.cfg. Change to your desired keys
 * End/home - Zoom radar in or out
 * Space - jump throw
 * left alt - crouch + jump at the same time, this is just about the highest you can jump.
+* delete/insert - +right and +left
 
 ## Support
 
