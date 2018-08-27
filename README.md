@@ -80,6 +80,7 @@ These are located in cata-controls.cfg. Change to your desired keys
 * v - Clear all blood and bullet holes from the map for better visibility
 * f - Toggles weapon between left and right hand, I use this to hold certain angles better where your gun could block vision
 * n - toggle "team wallhack", let's you see teammates names, nades and gun through walls
+* o - Tell a bot to hold his position
 * Page up/down - ingame volume buttons
 * End/home - Zoom radar in or out
 * Space - jump throw
