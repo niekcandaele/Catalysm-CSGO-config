@@ -83,6 +83,7 @@ These are located in cata-controls.cfg. Change to your desired keys
 * Page up/down - ingame volume buttons
 * End/home - Zoom radar in or out
 * Space - jump throw
+* left alt - crouch + jump at the same time, this is just about the highest you can jump.
 
 ## Support
 
