@@ -3,6 +3,8 @@
 
 All my settings and binds for CSGO.
 
+**This includes my personal controls! Make sure to delete these lines or change them to yours because you will lose your current settings.**
+
 ## Features
 
 * Assorted scripts bound to function keys
@@ -67,6 +69,10 @@ Instantly disconnects you from current server
 * **F12 - Quit prompt**
 
 Shows the quit prompt. 
+
+## Other controls
+
+
 
 # Disclaimer
 
