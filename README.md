@@ -3,6 +3,15 @@
 
 All my settings and binds for CSGO.
 
+## Features
+
+* Assorted scripts bound to function keys
+* Buy binds on numpad and arrow keys. (run `exec autoexec` ingame and it will echo the settings to your console)
+* Sensible defaults for network, video and viewmodel.
+* Displays damage done when you die. Will display at top left of your screen.
+* Radar zoom in and out buttons
+* Volume up/down buttons. To control ingame volume without changing your Windows volume.
+
 ## Installation
 
   Copy all .cfg files in this repo to your csgo cfg folder
@@ -12,14 +21,6 @@ All my settings and binds for CSGO.
   It will automatically execute all commands when you start your game. 
   If you're having trouble you can reload the script by writing `exec autoexec` to console.
 
-## Features
-
-* Assorted scripts bound to function keys
-* Buy binds on numpad and arrow keys. (run `exec autoexec` ingame and it will echo the settings to your console)
-* Sensible defaults for network, video and viewmodel.
-* Displays damage done when you die. Will display at top left of your screen.
-* Radar zoom in and out buttons
-* Volume up/down buttons. To control ingame volume without changing your Windows volume.
 
 ## Scripts
 
