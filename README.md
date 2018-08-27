@@ -85,7 +85,15 @@ These are located in cata-controls.cfg. Change to your desired keys
 * Space - jump throw
 * left alt - crouch + jump at the same time, this is just about the highest you can jump.
 * delete/insert - +right and +left
+
+### Text binds
+
+Located in cata-text.cfg
+
 * L - trashtalker. Will display a new message every time you press L, send me a message if you think of a funny message to include!
+* k -  ¯\\_(ツ)_/¯
+* m - xD
+* p - What do you mean
 
 ## Support
 
