@@ -29,7 +29,7 @@ Buys an AK/M4 and drops it.
 
 * **F2 - find the bomb script**
 
-Enabled the noob-tips. This will show a tooltip above the bomb, useful for finding it inside a smoke.
+Enables the noob-tips. This will show a tooltip above the bomb, useful for finding it inside a smoke.
 
 * **F3 - Crosshair changing script**
 
@@ -41,15 +41,15 @@ Very useful to mute cyka blyat teammates during clutches.
 
 * **F5 - Rapid fire**
 
-Toggles rapid fire mode. This will rebind your mousewheel to shooting. Combine this with dualies for maximum power.
+Toggles rapid fire mode. This will rebind your mousewheel to shooting. Combine this with dualies/tec-9 for maximum power.
 
 * **F6 - sm_admin**
 
-Opens the SourceMod admin menu (if you have access).
+Opens the SourceMod admin menu.
 
 * **F7 - ready**
 
-Say .ready. Made for lazy people.
+Say .ready. Made for lazy people like me.
 
 * **F8 - /**
 
@@ -69,4 +69,4 @@ Shows the quit prompt.
 
 # Disclaimer
 
-Please don't blindy copy and paste, it WILL override your settings (binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell)
+Please don't blindy copy and paste, it WILL override your settings (controls, binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell)
