@@ -3,7 +3,7 @@
 
 All my settings and binds for CSGO.
 
-INSTALLATION
+## Installation
 
   Copy autoexec.cfg to your csgo cfg folder:
   
