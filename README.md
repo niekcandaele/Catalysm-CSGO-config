@@ -13,6 +13,9 @@ All my settings and binds for CSGO.
 * Displays damage done when you die. Will display at top left of your screen.
 * Radar zoom in and out buttons
 * Volume up/down buttons. To control ingame volume without changing your Windows volume.
+* Show netgraph when holding TAB
+* Friends can join your community server without an invite
+* Disable automatic weapon switch on pickup
 
 ## Installation
 
@@ -72,7 +75,14 @@ Shows the quit prompt.
 
 ## Other controls
 
+These are located in cata-controls.cfg. Change to your desired keys
 
+* v - Clear all blood and bullet holes from the map for better visibility
+* f - Toggles weapon between left and right hand, I use this to hold certain angles better where your gun could block vision
+* n - toggle "team wallhack", let's you see teammates names, nades and gun through walls
+* Page up/down - ingame volume buttons
+* End/home - Zoom radar in or out
+* Space - jump throw
 
 # Disclaimer
 
