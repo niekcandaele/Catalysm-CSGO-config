@@ -49,7 +49,7 @@ Opens the SourceMod admin menu (if you have access).
 
 * **F7 - ready**
 
-Say .ready and !ready. Made for lazy people.
+Say .ready. Made for lazy people.
 
 * **F8 - /**
 
