@@ -123,10 +123,10 @@ This can have multiple causes and luckily there's a couple of fixes!
 
 - Add the command `exec autoexec` to you config.cfg
 
-config.cfg is always executed on start, by adding this command to it you can make sure the autoexec is executed straight after
+  config.cfg is always executed on start, by adding this command to it you can make sure the autoexec is executed straight after
 
 - Add `+exec autoexec` to the launch options of CSGO
 
 # Disclaimer
 
-Please don't blindy copy and paste, it WILL override your settings (controls, binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell)
+Please don't blindy copy and paste, it WILL override your settings (controls, binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell). Do your own research to make sure!
