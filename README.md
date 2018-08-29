@@ -1,9 +1,20 @@
 # Catalysm-CSGO-config
 
 
-All my settings and binds for CSGO.
+Autoexec for Counter Strike Global Offensive (CSGO) including scripts and binds.
 
 **This includes my personal controls! Make sure to delete these lines or change them to yours because you will lose your current settings.**
+
+The best thing to do is look at everything in this repo and copy what you want to your own autoexec.
+
+## What is an autoexec?
+
+An autoexec (automatic execute) is a config file which will run every time you start CSGO. This has multiple benefits
+
+- More possibilities than the ingame settings menu because you are not limited to what Valve provides ingame.
+- A backup of your configuration for when you get a new PC or you have to play on a different machine.
+
+An autoexec can have as many (or as little) settings as you want. In this project I have split it up into different files for improved readability and to make it easier to find the settings you want.
 
 ## Features
 
@@ -98,7 +109,23 @@ Located in cata-text.cfg
 
 ## Support
 
-Join my [discord server](http://catalysm.net/discord) for some realtime help or [make an issue on Github](https://github.com/niekcandaele/Catalysm-CSGO-config/issues/new).
+[Make an issue on Github](https://github.com/niekcandaele/Catalysm-CSGO-config/issues/new).
+
+### What if the autoexec is not running on startup?
+
+This can have multiple causes and luckily there's a couple of fixes!
+
+- Manually execute the config from inside the game
+  
+  To do this, you open up your console and execute this command `exec autoexec`. If you are using the config files in this repo, you will see info about loaded scripts, buy binds and other controls.
+
+  If you do this you please make sure you run the command again every time you make changes to your autoexec.
+
+- Add the command `exec autoexec` to you config.cfg
+
+config.cfg is always executed on start, by adding this command to it you can make sure the autoexec is executed straight after
+
+- Add `+exec autoexec` to the launch options of CSGO
 
 # Disclaimer
 
