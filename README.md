@@ -27,10 +27,11 @@ An autoexec can have as many (or as little) settings as you want. In this projec
 * Show netgraph when holding TAB
 * Friends can join your community server without an invite
 * Disable automatic weapon switch on pickup
+* Mute all music except the 10 second bomb timer
 
 ## Installation
 
-  Copy all .cfg files in this repo to your csgo cfg folder
+  Copy the csgo folder of this repo to the one in your csgo installation. When asked to overwrite, answer yes.
   
   `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
   
@@ -95,7 +96,6 @@ These are located in cata-controls.cfg. Change to your desired keys
 
 * v - Clear all blood and bullet holes from the map for better visibility
 * f - Toggles weapon between left and right hand, I use this to hold certain angles better where your gun could block vision
-* n - toggle "team wallhack", let's you see teammates names, nades and gun through walls
 * o - Tell a bot to hold his position
 * Page up/down - ingame volume buttons
 * End/home - Zoom radar in or out
@@ -111,6 +111,7 @@ Located in cata-text.cfg
 * k -  ¯\\_(ツ)_/¯
 * m - xD
 * p - What do you mean
+* I - Navy seal copypasta
 
 ## Support
 
@@ -131,6 +132,13 @@ This can have multiple causes and luckily there's a couple of fixes!
   config.cfg is always executed on start, by adding this command to it you can make sure the autoexec is executed straight after
 
 - Add `+exec autoexec` to the launch options of CSGO
+
+# Credits
+
+I took a lot of info from other configs. Check those out aswell!
+
+- [/u/birkir](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)
+- [rwwrou](https://github.com/rwwrou/yuki.cfg)
 
 # Disclaimer
 
