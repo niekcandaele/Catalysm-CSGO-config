@@ -84,6 +84,11 @@ Instantly disconnects you from current server
 
 Shows the quit prompt. 
 
+## Aliases
+
+* Play aim_botz or recoil training while waiting for MM queue
+* Nade training mode
+
 ## Other controls
 
 These are located in cata-controls.cfg. Change to your desired keys
