@@ -66,7 +66,7 @@ Opens the SourceMod admin menu.
 
 * **F7 - ready**
 
-Say .ready. Made for lazy people like me.
+Inspect your weapon everytime you shoot. Because lol.
 
 * **F8 - /**
 
