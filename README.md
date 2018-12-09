@@ -65,7 +65,7 @@ Toggles rapid fire mode. This will rebind your mousewheel to shooting. Combine t
 
 Opens the SourceMod admin menu.
 
-* **F7 - ready**
+* **F7 - Pro mode**
 
 Inspect your weapon everytime you shoot. Because lol.
 
@@ -89,6 +89,16 @@ Shows the quit prompt.
 
 * Play aim_botz or recoil training while waiting for MM queue
 * Nade training mode
+
+## Radio menu commands
+
+The radio menus have been customized with commands and scripts.
+
+![Radio client](img/radio_client.png)
+![Radio bot](img/radio_bot.png)
+![Radio 10man](img/radio_10man.png)
+![Radio training](img/radio_training.png)
+
 
 ## Other controls
 
@@ -139,6 +149,7 @@ I took a lot of info from other configs. Check those out aswell!
 
 - [/u/birkir](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)
 - [rwwrou](https://github.com/rwwrou/yuki.cfg)
+- [KYSO](https://www.youtube.com/watch?v=l7gE8RjuJB8)
 
 # Disclaimer
 
