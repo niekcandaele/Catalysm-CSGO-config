@@ -28,6 +28,7 @@ An autoexec can have as many (or as little) settings as you want. In this projec
 * Friends can join your community server without an invite
 * Disable automatic weapon switch on pickup
 * Mute all music except the 10 second bomb timer
+* Customized radio menu
 
 ## Installation
 
@@ -92,7 +93,7 @@ Shows the quit prompt.
 
 ## Radio menu commands
 
-The radio menus have been customized with commands and scripts.
+The radio menus have been customized with commands and scripts. The 10 man commands are from [Splewis Pug Setup](https://github.com/splewis/csgo-pug-setup)
 
 ![Radio client](img/radio_client.png)
 ![Radio bot](img/radio_bot.png)
@@ -117,7 +118,7 @@ These are located in cata-controls.cfg. Change to your desired keys
 
 Located in cata-text.cfg
 
-* L - trashtalker. Will display a new message every time you press L, send me a message if you think of a funny message to include!
+* L - trashtalker. Will display a new message every time you press L
 * k -  ¯\\_(ツ)_/¯
 * m - xD
 * p - What do you mean
