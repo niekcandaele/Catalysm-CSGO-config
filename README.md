@@ -154,4 +154,4 @@ I took a lot of info from other configs. Check those out aswell!
 
 # Disclaimer
 
-Please don't blindy copy and paste, it WILL override your settings (controls, binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell). Do your own research to make sure!
+Please don't blindly copy and paste, it WILL override your settings (controls, binds, crosshair, viewmodel). Delete what you don't want or change to your own values! Be careful when using the jump throw script! It is banned on ESEA (and possibly other services aswell). Do your own research to make sure!
