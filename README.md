@@ -1,7 +1,7 @@
-# Catalysm-CSGO-config
+# Catalysm-CS-config
 
 
-Autoexec for Counter Strike Global Offensive (CSGO) including scripts and binds.
+Autoexec for Counter Strike Global Offensive (CS) including scripts and binds.
 
 **This includes my personal controls! Make sure to delete these lines or change them to yours because you will lose your current settings.**
 
@@ -9,7 +9,7 @@ The best thing to do is look at everything in this repo and copy what you want t
 
 ## What is an autoexec?
 
-An autoexec (automatic execute) is a config file which will run every time you start CSGO. This has multiple benefits
+An autoexec (automatic execute) is a config file which will run every time you start CS. This has multiple benefits
 
 - More possibilities than the ingame settings menu because you are not limited to what Valve provides ingame.
 - A backup of your configuration for when you get a new PC or you have to play on a different machine.
@@ -32,7 +32,7 @@ An autoexec can have as many (or as little) settings as you want. In this projec
 
 ## Installation
 
-  Copy the csgo folder of this repo to the one in your csgo installation. When asked to overwrite, answer yes.
+  Copy the csgo folder of this repo to the one in your CS installation. When asked to overwrite, answer yes.
   
   `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo`
   
