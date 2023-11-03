@@ -34,7 +34,7 @@ An autoexec can have as many (or as little) settings as you want. In this projec
 
   Copy the csgo folder of this repo to the one in your csgo installation. When asked to overwrite, answer yes.
   
-  `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+  `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo`
   
   It will automatically execute all commands when you start your game. 
   If you're having trouble you can reload the script by writing `exec autoexec` to console.
