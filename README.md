@@ -77,16 +77,6 @@ Shows the quit prompt.
 * `aim_botz` Play aim_botz
 * `training` Nade training mode
 
-## Radio menu commands
-
-The radio menus have been customized with commands and scripts. The 10 man commands are from [Splewis Pug Setup](https://github.com/splewis/csgo-pug-setup)
-
-![Radio client](img/radio_client.png)
-![Radio bot](img/radio_bot.png)
-![Radio 10man](img/radio_10man.png)
-![Radio training](img/radio_training.png)
-
-
 ## Other controls
 
 These are located in cata-controls.cfg. Change to your desired keys
