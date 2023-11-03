@@ -91,14 +91,11 @@ The radio menus have been customized with commands and scripts. The 10 man comma
 
 These are located in cata-controls.cfg. Change to your desired keys
 
-* v - Clear all blood and bullet holes from the map for better visibility
-* f - Toggles weapon between left and right hand, I use this to hold certain angles better where your gun could block vision
 * o - Tell a bot to hold his position
 * Page up/down - ingame volume buttons
 * End/home - Zoom radar in or out
 * Space - jump throw
-* left alt - crouch + jump at the same time, this is just about the highest you can jump.
-* delete/insert - +right and +left
+* left alt - crouch + jump at the same time, this is just about the highest you can jump. (note: subtick seems to have made this inconsistent...)
 
 ### Text binds
 
