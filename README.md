@@ -42,14 +42,6 @@ An autoexec can have as many (or as little) settings as you want. In this projec
 
 ## Scripts
 
-* **F1 - buy drop script**
-  
-Buys an AK/M4 and drops it.
-
-* **F2 - find the bomb script**
-
-Enables the noob-tips. This will show a tooltip above the bomb, useful for finding it inside a smoke.
-
 * **F3 - Crosshair changing script**
 
 Cycles through crosshairs. See the misc file to configure your own crosshair(s).
@@ -58,10 +50,6 @@ Cycles through crosshairs. See the misc file to configure your own crosshair(s).
 
 Very useful to mute cyka blyat teammates during clutches.
 
-* **F5 - Rapid fire**
-
-Toggles rapid fire mode. This will rebind your mousewheel to shooting. Combine this with dualies/tec-9 for maximum power.
-
 * **F6 - sm_admin**
 
 Opens the SourceMod admin menu.
@@ -69,8 +57,6 @@ Opens the SourceMod admin menu.
 * **F7 - Pro mode**
 
 Inspect your weapon everytime you shoot. Because lol.
-
-* **F8 - /**
 
 * **F9 - noclip**
 
@@ -88,8 +74,8 @@ Shows the quit prompt.
 
 ## Aliases
 
-* Play aim_botz or recoil training while waiting for MM queue
-* Nade training mode
+* `aim_botz` Play aim_botz
+* `training` Nade training mode
 
 ## Radio menu commands
 
