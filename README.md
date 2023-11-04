@@ -39,6 +39,9 @@ An autoexec can have as many (or as little) settings as you want. In this projec
   It will automatically execute all commands when you start your game. 
   If you're having trouble you can reload the script by writing `exec autoexec` to console.
 
+On Linux, you can create symlinks from the repo to the game (this is also very useful during development)
+
+`ln -s /path/to/repo/csgo/cfg/* ~/.local/share/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg`
 
 ## Scripts
 
