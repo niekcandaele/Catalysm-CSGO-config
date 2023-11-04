@@ -1,7 +1,7 @@
-# Catalysm-CS-config
+# Catalysm CS config
 
 
-Autoexec for Counter Strike Global Offensive (CS) including scripts and binds.
+Autoexec for Counter Strike including scripts and binds.
 
 **This includes my personal controls! Make sure to delete these lines or change them to yours because you will lose your current settings.**
 
